@@ -1,0 +1,1 @@
+This code provides a structured approach to building a resume using HTML and CSS. It includes sections for personal information, education, skills, projects, experience/internships, and contact information. Each section is styled for better readability and organization. Feel free to customize it further to
